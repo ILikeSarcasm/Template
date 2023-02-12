@@ -1,0 +1,4 @@
+name: Stash
+version: '${project.version}'
+main: me.ilikesarcasm.template.Template
+api-version: 1.19
